@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>jsp scripting tags</h1>
-</hr>
-<p>in jsp java code can be written inside the jsp page using the scripting tags.</p>
+
 </body>
 </html>
